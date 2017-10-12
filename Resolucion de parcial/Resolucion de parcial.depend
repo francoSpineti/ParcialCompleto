@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1507741693 source:c:\users\achahua\desktop\anthoanne\programas en c\resolucion de parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Pantalla.h"
+	"validar.h"
+	"Contratacion.h"
+
+1507739712 c:\users\achahua\desktop\anthoanne\programas en c\resolucion de parcial\pantalla.h
+
+1507553996 c:\users\achahua\desktop\anthoanne\programas en c\resolucion de parcial\validar.h
+
+1507736223 c:\users\achahua\desktop\anthoanne\programas en c\resolucion de parcial\contratacion.h
+	"Pantalla.h"
+
+1507732432 source:c:\users\achahua\desktop\anthoanne\programas en c\resolucion de parcial\pantalla.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Pantalla.h"
+	"validar.h"
+
+1507662703 source:c:\users\achahua\desktop\anthoanne\programas en c\resolucion de parcial\validar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validar.h"
+
+1507737327 source:c:\users\achahua\desktop\anthoanne\programas en c\resolucion de parcial\contratacion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Contratacion.h"
+	"validar.h"
+
+1507831312 source:c:\users\l0665479\desktop\resolucion de parcial\contratacion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Contratacion.h"
+	"validar.h"
+
+1507736223 c:\users\l0665479\desktop\resolucion de parcial\contratacion.h
+	"Pantalla.h"
+
+1507739712 c:\users\l0665479\desktop\resolucion de parcial\pantalla.h
+
+1507553996 c:\users\l0665479\desktop\resolucion de parcial\validar.h
+
+1507822021 source:c:\users\l0665479\desktop\resolucion de parcial\pantalla.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Pantalla.h"
+	"validar.h"
+
+1507821195 source:c:\users\l0665479\desktop\resolucion de parcial\validar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validar.h"
+
+1507820279 source:c:\users\l0665479\desktop\resolucion de parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Pantalla.h"
+	"validar.h"
+	"Contratacion.h"
+
